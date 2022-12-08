@@ -1,0 +1,4 @@
+rice
+
+arch + hyprland
+osu
